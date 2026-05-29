@@ -70,7 +70,7 @@ Examples:
 
 ---
 
-## 4️⃣ Outlier Analysis.
+## 4️⃣ Outlier Analysis
 
 Outliers in the `Total Spent` column were analyzed using:
 - Boxplots
