@@ -8,7 +8,7 @@ Data Cleaning
 
 ---
 
-# 📌 Project Overview.
+# 📌 Project Overview
 
 This project focuses on cleaning a retail store sales dataset using Python and Pandas in Google Colab.  
 The dataset contained missing values, datatype inconsistencies, and categorical null values which were cleaned and prepared for further analysis.
